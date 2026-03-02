@@ -1,6 +1,5 @@
-# boiling-ocean
-Boil the ocean.
-Hackers! I love TreeHacks!
+# Probe
+Treehacks 2026 project. Members: Stephen Kwak, Wayne He, JJ Zhao 
 
 # Run
 ```
